@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XYZ-Herry
-- 👀 I’m interested in touching fish
+- 👀 I’m interested in eating and sleeping
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on (nothing
 - 📫 How to reach me ： By email 765490529@qq.com
