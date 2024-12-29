@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @XYZ-Herry
 - 👀 I’m interested in eating and sleeping
-- 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on (nothing
-- 📫 How to reach me ： By email 765490529@qq.com
+- 🌱 I’m currently learning traditional algorithm 
+- 💞️ language(C++, Python)
+- 📫 How to reach me ： By email xiangyizhan@nenu.edu.cn
 
 <!---
 XYZ-Herry/XYZ-Herry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
