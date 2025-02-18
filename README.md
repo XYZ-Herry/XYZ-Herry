@@ -1,5 +1,5 @@
-[![XYZ-Herry's GitHub stats](https://github-readme-stats.vercel.app/api?username=XYZ-Herry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![XYZ-Herry's GitHub stats](https://github-readme-stats.vercel.app/api?username=XYZ-Herry&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XYZ-Herry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @XYZ-Herry
 - 👀 I’m interested in eating and sleeping
 - 🌱 I’m currently learning traditional algorithm 
