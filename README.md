@@ -1,3 +1,5 @@
+[![XYZ-Herry's GitHub stats](https://github-readme-stats.vercel.app/api?username=XYZ-Herry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @XYZ-Herry
 - 👀 I’m interested in eating and sleeping
 - 🌱 I’m currently learning traditional algorithm 
